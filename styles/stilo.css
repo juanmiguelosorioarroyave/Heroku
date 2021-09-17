@@ -1,0 +1,68 @@
+*{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    
+}
+h1{
+    background-color:white;
+    text-align: center;
+}
+
+.imagperfil{
+    width: 200px;
+    border-radius: 50%;
+    box-shadow: 0 0 20px rgb(71, 3, 77);
+    text-align: center;
+}
+
+.box{
+    width: 500px;
+    height: 500px;
+        margin: 0 auto;
+        margin-top: 12%;
+        padding: 20px;
+        color: black;
+        text-align: center;
+        box-shadow: 0 0 20px rgba(7, 168, 204, 0.693);
+        border-radius: 15px;
+        background: linear-gradient(white 34%,dodgerblue 0%);
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.uno,.tres{
+    width: 50px;
+    height: 50px;
+} 
+.base{
+    background-color: dodgerblue;
+    width: 19%;
+    height: 50px;
+    align-items: center;
+    border-radius: 10px;
+    margin-top: -63px;
+    margin-left: 760px;
+    justify-items: center;
+}
+
+.dos{
+    width: 50px;
+    height: 50px;
+}
+
+.uno{
+    margin-left: 33%;
+
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    background-image:url(../images/pxd-shader-updated_2.gif);
+    background-repeat: repeat-x;
+    background-size: cover;
+}
+
+
